@@ -1,0 +1,7 @@
+{
+  "url": "http://127.0.0.1:8080/health",
+  "target_availability": 0.99,
+  "latency_slo_ms": 250,
+  "timeout_ms": 1500,
+  "checks": 20
+}
