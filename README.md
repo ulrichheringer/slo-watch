@@ -1,4 +1,6 @@
-# slo-watch
+# SLO Watch
+
+[![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/) [![MIT License](https://img.shields.io/badge/License-MIT-007ec6.svg)](LICENSE)
 
 Send a batch of HTTP checks to an endpoint and compare its availability with your target. The report also shows latency breaches and the remaining error budget.
 
